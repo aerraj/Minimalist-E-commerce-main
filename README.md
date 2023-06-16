@@ -8,6 +8,7 @@ simple shopping experience that puts the focus on the products.</p>
 
 » Vanila CSS <br>
 » React JS
+👉 Live Demo: <a href='https://e-store-beta.vercel.app/'>Ecommerce Demo</a>
 
 
 
